@@ -1,8 +1,3 @@
 # Guest
-Testing repository to learn Github.
-
-## Guest!
-This will be my first commit to Github repository.
-
-### Guest!
-This will be my first file on Github.
+I will test my Git knowledge on this repo.
+I have added new text into this file.     # Přidáváme tento řádek.
